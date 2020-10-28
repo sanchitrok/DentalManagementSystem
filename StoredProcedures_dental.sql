@@ -29,6 +29,8 @@ BEGIN
 END IF;
 END;
 DELIMITER;
+
+
 /*Stored Procedure for inserting new Tooth details of a patient*/
 DELIMITER $$
 CREATE PROCEDURE insertToothRow (   
